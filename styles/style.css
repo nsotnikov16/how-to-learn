@@ -62,7 +62,6 @@
   position: absolute;
   width: 765px;
   height: 608px;
-  z-index: 0;
   right: 0;
   bottom: 0;
   align-self: flex-end;
@@ -132,24 +131,22 @@
 }
 
 .section-title {
-  margin: 0;
+  margin: 0 auto;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
-  margin: 0 auto;
   padding: 0 0 20px;
   text-align: center;
 }
 
 .section-subtitle {
-  margin: 0;
+  margin: 0 auto;
   width: 60%;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
-  margin: 0 auto;
 }
 
 .table{
